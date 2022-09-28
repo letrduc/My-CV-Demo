@@ -1,0 +1,14 @@
+body {
+  background-color: bisque;
+  font-family: "Roboto", sans-serif;
+}
+
+.TTCN {
+  position: relative;
+  text-align: center;
+  font-size: 50px;
+}
+
+#IF2 {
+  font-size: 20px;
+}
